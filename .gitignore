@@ -1,0 +1,9 @@
+### NetBeans ###
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+manifest.mf
+test/
